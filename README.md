@@ -393,15 +393,17 @@ Employee-Presence-HR-Data-Analysis/
 │
 ├── employee_presence_hr_data.pbix
 ├── README.md
+│
 ├── assets/
 │   ├── dashboard-overview.png
-│   ├── april-dashboard.png
-│   ├── may-dashboard.png
-│   └── june-dashboard.png
+│   ├── power-query-flow.png
+│   ├── data-model.png
+│   └── dax-measures.png
 │
 └── dataset/
-    ├── raw-data.xlsx
-    └── cleaned-data.csv
+├── raw_data.xlsx
+└── cleaned_data.xlsx
+
 ```
 
 ---
