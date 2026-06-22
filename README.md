@@ -410,9 +410,7 @@ Employee-Presence-HR-Data-Analysis/
 
 # 👤 Author
 
-###[Kuhu Vyas](https://github.com/KuhuVyas)
-
-Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics, visualization, and business intelligence.
+[Kuhu Vyas](https://github.com/KuhuVyas)
 
 🔗 Repository: https://github.com/KuhuVyas/Employee-Presence-HR-Data-Analysis
 
